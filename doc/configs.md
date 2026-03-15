@@ -2479,11 +2479,11 @@ Default config:
   {
     editorInfo = {
       name = "Neovim",
-      version = "0.12.0-dev+gf58d24040a"
+      version = "0.12.0-dev+g9084483715"
     },
     editorPluginInfo = {
       name = "Neovim",
-      version = "0.12.0-dev+gf58d24040a"
+      version = "0.12.0-dev+g9084483715"
     }
   }
   ```
@@ -4971,20 +4971,20 @@ Default config:
   {
     editorInfo = {
       name = "Neovim",
-      version = "0.12.0-dev+gf58d24040a"
+      version = "0.12.0-dev+g9084483715"
     },
     editorPluginInfo = {
       name = "Neovim LSP",
-      version = "0.12.0-dev+gf58d24040a"
+      version = "0.12.0-dev+g9084483715"
     },
     extension = {
       name = "Neovim LSP Client",
-      version = "0.12.0-dev+gf58d24040a"
+      version = "0.12.0-dev+g9084483715"
     },
     ide = {
       name = "Neovim",
       vendor = "Neovim",
-      version = "0.12.0-dev+gf58d24040a"
+      version = "0.12.0-dev+g9084483715"
     }
   }
   ```
@@ -11373,7 +11373,7 @@ Default config:
     activateSnykIac = "true",
     activateSnykOpenSource = "true",
     integrationName = "Neovim",
-    integrationVersion = "0.12.0-dev+gf58d24040a",
+    integrationVersion = "0.12.0-dev+g9084483715",
     token = vim.NIL,
     trustedFolders = {}
   }
